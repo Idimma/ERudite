@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/accounting"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Accounting" />
+        <item
+            android:id="@+id/commerce"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Commerce" />
+        <item
+            android:id="@+id/bookKeeping"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Book Keeping" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_menu_share"
+                android:title="About" />
+            <item
+                android:id="@+id/help"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Help" />
+        </menu>
+    </item>
+
+</menu>

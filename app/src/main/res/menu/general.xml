@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mathematics"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Math" />
+        <item
+            android:id="@+id/eng"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="English Language" />
+        <item
+            android:id="@+id/geography"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Geography" />
+        <item
+            android:id="@+id/economics"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Economics" />
+        <item
+            android:id="@+id/agric_sci"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Agricultural Science" />
+        <item
+            android:id="@+id/crs"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="C.R.S" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_menu_share"
+                android:title="About" />
+            <item
+                android:id="@+id/help"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Help" />
+        </menu>
+    </item>
+
+</menu>
