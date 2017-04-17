@@ -1,4 +1,4 @@
-package erudite.maotronics.com.erudite;
+package erudite.maotronics.com;
 
 abstract class SetAndGet {
 
@@ -38,7 +38,6 @@ abstract class SetAndGet {
     public String getOption4() {
         return option4;
     }
-
 
 
     public void setOption4

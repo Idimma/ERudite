@@ -1,4 +1,4 @@
-package erudite.maotronics.com.erudite;
+package erudite.maotronics.com;
 
 import android.app.Activity;
 import android.content.Intent;
