@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">ERudite</string>
-    <string name="title_activity_meuns">Meuns</string>
+    <string name="app_name">Erudite</string>
+    <string name="title_activity_meuns">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -9,5 +9,5 @@
     <string name="title_activity_engine">Engine</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="title_activity_test_nav">TestNav</string>
-    <string name="title_activity_nav_gations">NavGations</string>
+    <string name="title_activity_nav_gations">Navgations</string>
 </resources>

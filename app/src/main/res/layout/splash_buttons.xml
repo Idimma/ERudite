@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="180dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@android:color/transparent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/sci_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@android:color/transparent"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="@color/Gold"
+        android:text="Science" />
+
+    <Button
+        android:id="@+id/art_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="@color/Goldenrod"
+        android:layout_weight="1"
+        android:background="@android:color/transparent"
+        android:text="Arts" />
+
+    <Button
+        android:id="@+id/comm_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="@color/Yellow"
+        android:background="@android:color/transparent"
+
+        android:text="Commercial" />
+
+    <Button
+        android:id="@+id/gen_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="@color/Orange"
+        android:background="@android:color/transparent"
+        android:text="General" />
+
+</LinearLayout>

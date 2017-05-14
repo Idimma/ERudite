@@ -27,38 +27,7 @@
         android:orientation="horizontal">
 
 
-        <Button
-            android:id="@+id/sci_btn"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
 
-            android:text="Science" />
-
-        <Button
-            android:id="@+id/art_btn"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-
-            android:text="Arts" />
-
-        <Button
-            android:id="@+id/comm_btn"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="@mipmap/ic_launcher"
-
-            android:text="Commencial" />
-
-        <Button
-            android:id="@+id/gen_btn"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-
-            android:text="General" />
     </LinearLayout>
 
 
